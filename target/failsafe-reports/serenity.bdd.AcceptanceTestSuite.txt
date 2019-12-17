@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: serenity.bdd.AcceptanceTestSuite
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 25.1 s - in serenity.bdd.AcceptanceTestSuite
